@@ -1,0 +1,17 @@
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\EasySoundBoard.csprojAssemblyReference.cache
+C:\Code\C#\EasySoundBoard\EasySoundBoard\bin\Debug\EasySoundBoard.exe.config
+C:\Code\C#\EasySoundBoard\EasySoundBoard\bin\Debug\EasySoundBoard.exe
+C:\Code\C#\EasySoundBoard\EasySoundBoard\bin\Debug\EasySoundBoard.pdb
+C:\Code\C#\EasySoundBoard\EasySoundBoard\bin\Debug\NAudio.dll
+C:\Code\C#\EasySoundBoard\EasySoundBoard\bin\Debug\NAudio.xml
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\MainWindow.g.cs
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\App.g.cs
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\EasySoundBoard_MarkupCompile.cache
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\EasySoundBoard_MarkupCompile.lref
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\MainWindow.baml
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\EasySoundBoard.g.resources
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\EasySoundBoard.Properties.Resources.resources
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\EasySoundBoard.csproj.GenerateResource.cache
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\EasySoundBoard.csproj.CopyComplete
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\EasySoundBoard.exe
+C:\Code\C#\EasySoundBoard\EasySoundBoard\obj\Debug\EasySoundBoard.pdb
